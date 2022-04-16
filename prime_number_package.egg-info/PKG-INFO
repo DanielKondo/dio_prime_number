@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: prime-number-package
+Version: 0.0.1
+Summary: A small package to check whether a number is prime
+Home-page: https://github.com/DanielKondo/dio_prime_number.git
+Author: Daniel Kondo
+Author-email: kondo.yoshie.daniel@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# prime_number
+Description. The package prime_number_package is used to check if a number is a prime number
+
+# Usage
+
+```python
+from prime_number_package import is_prime
+is_prime.is_prime()
+```
+
+# Author
+Daniel Kondo
+
